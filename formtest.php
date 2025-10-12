@@ -5,6 +5,6 @@
     <title>Submitted Results</title>
   </head>
   <body>
-    Your favorite adjective is <?php echo $_POST['status']; ?>
+    <p>Your favorite adjective is</p> <?php echo $_POST['status']; ?>
   </body>
 </html>
